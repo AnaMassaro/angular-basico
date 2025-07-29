@@ -9,4 +9,6 @@ import { Component } from '@angular/core';
 })
 export class Componente01Component {
 
+  nome:string = 'Ana';
+  idade:number = 23;
 }

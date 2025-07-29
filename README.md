@@ -1,27 +1,24 @@
-# AngularBasico
+# Estudo de Angular Básico
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+Este repositório foi criado para acompanhar meus estudos de Angular básico, seguindo a playlist **"Angular 17 - 2024"** disponível no YouTube. A playlist cobre os fundamentos do Angular e como criar aplicações básicas, sendo ideal para quem está começando a aprender o framework.
 
-## Development server
+A playlist pode ser acessada [aqui](https://www.youtube.com/watch?v=zXL0hmil964&list=PLWXw8Gu52TRKj3tFWHlkheh8rLQRqQ1__).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+**Observação:** Eu não sou a criadora da playlist, estou apenas acompanhando-a para estudo.
 
-## Code scaffolding
+## Episódios
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Aqui você pode acompanhar o progresso do estudo, atualizando o episódio em que está:
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- **Episódio Atual:** [10]
+- **Episódios:**
+  1. Episódio 1: Introdução
+  2. Episódio 2: Conceitos
+  3. Episódio 3: Criar e executar projetos
+  4. Episódio 4: Primeiro componente
+  5. Episódio 5: Interpolação de texto
+  6. Episódio 6: Event binding
+  7. Episódio 7: Property binding
+  8. Episódio 8: Diretiva *ngIf
+  9. Episódio 9: Diretiva *ngFor
+  10. Episódio 10: Diretiva ngStyle
