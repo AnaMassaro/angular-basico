@@ -1,14 +1,12 @@
 # Estudo de Angular Básico
 
-Este repositório foi criado para acompanhar meus estudos de Angular básico, seguindo a playlist **"Angular 17 - 2024"** disponível no YouTube. A playlist cobre os fundamentos do Angular e como criar aplicações básicas, sendo ideal para quem está começando a aprender o framework.
+Este repositório foi criado para acompanhar meus estudos de Angular básico, seguindo a playlist **"Angular 17 - 2024"** disponível no YouTube.
 
 A playlist pode ser acessada [aqui](https://www.youtube.com/watch?v=zXL0hmil964&list=PLWXw8Gu52TRKj3tFWHlkheh8rLQRqQ1__).
 
 **Observação:** Eu não sou a criadora da playlist, estou apenas acompanhando-a para estudo.
 
 ## Episódios
-
-Aqui você pode acompanhar o progresso do estudo, atualizando o episódio em que está:
 
 - **Episódio Atual:** [10]
 - **Episódios:**
