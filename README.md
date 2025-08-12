@@ -19,4 +19,6 @@ A playlist pode ser acessada [aqui](https://www.youtube.com/watch?v=zXL0hmil964&
   7. Episódio 7: Property binding
   8. Episódio 8: Diretiva *ngIf
   9. Episódio 9: Diretiva *ngFor
-  10. Episódio 10: Diretiva ngStyle
+  10. Episódio 10: Diretiva ngSwitch
+  11. Episódio 11: Diretiva ngStyle
+  12. Episódio 12: Diretiva ngClass
