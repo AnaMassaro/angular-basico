@@ -40,3 +40,7 @@ A playlist pode ser acessada [aqui](https://www.youtube.com/watch?v=zXL0hmil964&
   28. Criar modelo de pessoas
   29. Mensagens de validação
   30. Propriedade disabled
+  31. Visibilidade de botões
+  32. Criar vetor
+  33. Função de cadastro
+  34. Função de listagem
