@@ -8,17 +8,35 @@ A playlist pode ser acessada [aqui](https://www.youtube.com/watch?v=zXL0hmil964&
 
 ## Episódios
 
-- **Episódio Atual:** [10]
+- ** Atual:** [10]
 - **Episódios:**
-  1. Episódio 1: Introdução
-  2. Episódio 2: Conceitos
-  3. Episódio 3: Criar e executar projetos
-  4. Episódio 4: Primeiro componente
-  5. Episódio 5: Interpolação de texto
-  6. Episódio 6: Event binding
-  7. Episódio 7: Property binding
-  8. Episódio 8: Diretiva *ngIf
-  9. Episódio 9: Diretiva *ngFor
-  10. Episódio 10: Diretiva ngSwitch
-  11. Episódio 11: Diretiva ngStyle
-  12. Episódio 12: Diretiva ngClass
+  1. Introdução
+  2. Conceitos
+  3. Criar e executar projetos
+  4. Primeiro componente
+  5. Interpolação de texto
+  6. Event binding
+  7. Property binding
+  8. Diretiva *ngIf
+  9. Diretiva *ngFor
+  10. Diretiva ngSwitch
+  11. Diretiva ngStyle
+  12. Diretiva ngClass
+  13. Built-in Control Flow
+  14. Control Flow - Condicional
+  15. Control Flow - Laço de repetição
+  16. Control Flow - Estrutura de escolha
+  17. Configurando Bootstrap
+  18. FormsModule (1 parte)
+  19. FormsModule (2 parte)
+  20. Reactive Forms
+  21. Apresentação do projeto
+  22. Criar componente do projeto
+  23. Configurando StrictNullChecks
+  24. Criar formulário
+  25. Criar tabela
+  26. Implementar fomulário reativo
+  27. Validators
+  28. Criar modelo de pessoas
+  29. Mensagens de validação
+  30. Propriedade disabled
