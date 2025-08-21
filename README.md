@@ -44,3 +44,8 @@ A playlist pode ser acessada [aqui](https://www.youtube.com/watch?v=zXL0hmil964&
   32. Criar vetor
   33. Função de cadastro
   34. Função de listagem
+  36. Função de seleção
+  36. Função de alteração
+  37. Função de exclusão
+  38. Função de cancelamento
+  39. Considerações
